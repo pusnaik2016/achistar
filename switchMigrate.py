@@ -28,6 +28,7 @@
 # Tst12042352c	stcli_migrate  with valid group VM vmid --networkmapping(vDS => stdSwitch) ( invalid )
 # Tst12042351c	stcli_migrate  with valid group VM vmid --networkmapping(stdSwitch => vDS) ( invalid )
 # Tst12042350c	stcli_migrate  with valid group VM vmid --networkmapping(vDS) ( invalid )
+# New testcases being added
 
 
 import time
